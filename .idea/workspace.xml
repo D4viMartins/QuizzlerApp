@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3d8e82d-a1e6-4d00-a425-0be047d23b7e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/QuizzlerApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QuizzlerApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3d8e82d-a1e6-4d00-a425-0be047d23b7e" name="Changes" comment="Using an API to get the questions">
       <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +42,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.data.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
+    "Python.ui.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/ishigami/PycharmProjects/QuizzlerApp"
+    "last_opened_file_path": "/home/ishigami/PycharmProjects/FlashCardApp/main.py"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -67,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1760750617957</updated>
     </task>
+    <task id="LOCAL-00001" summary="Using an API to get the questions">
+      <option name="closed" value="true" />
+      <created>1760752032561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760752032561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Using an API to get the questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using an API to get the questions" />
   </component>
 </project>
